@@ -1,1 +1,14 @@
-{"name": "AMLOracle", "description": "AML/KYC compliance \u2014 12 MCP tools for sanctions screening, PEP checks, adverse media", "category": "compliance", "tags": ["aml", "kyc", "sanctions", "compliance"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/aml/mcp/"}
+{
+  "name": "AMLOracle",
+  "description": "AML/KYC Compliance \u2014 sanctions screening (87k names), PEP checks, adverse media, GLEIF lookup via MCP",
+  "repository": "https://github.com/ToolOracle/amloracle",
+  "endpoint": "https://tooloracle.io/aml/mcp/",
+  "tools": 12,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "compliance",
+    "mcp",
+    "ai-agent"
+  ]
+}
