@@ -1,0 +1,5 @@
+name: AMLOracle
+description: AML/KYC — sanctions screening, PEP checks, 12 tools
+endpoint: https://tooloracle.io/aml/mcp/
+transport: streamable-http
+license: MIT
